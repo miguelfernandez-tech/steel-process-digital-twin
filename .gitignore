@@ -1,1 +1,9 @@
+# Virtual enviroments
+venv/
+env/
+__pycache__/
+*.pyc
 
+# Untracable outputs
+results/logs/*.csv
+.DS_Store
