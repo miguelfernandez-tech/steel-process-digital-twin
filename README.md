@@ -143,9 +143,9 @@ Upon execution, the script automatically populates the **results/** workspace:
 
 * **Author:** Miguel Fernández Guerra
 * **Degree:** Industrial Management Engineering 
-* **Host Institution:** University of Ruse (Erasmus+ Exchange)[cite: 1]
-* **Home Institution:** University of Oviedo (Gijón Campus)[cite: 1]
-* **Course:** Manufacturing Technologies[cite: 1]
+* **Host Institution:** University of Ruse (Erasmus+ Exchange)
+* **Home Institution:** University of Oviedo (Gijón Campus)
+* **Course:** Manufacturing Technologies
 * **Project Reference:** Process Digital Twin Prototype — Operational Synchronization at ArcelorMittal Gijón[cite: 1]
 * **Academic Year:** 2026/2027
 
