@@ -146,6 +146,6 @@ Upon execution, the script automatically populates the **results/** workspace:
 * **Host Institution:** University of Ruse (Erasmus+ Exchange)
 * **Home Institution:** University of Oviedo (Gijón Campus)
 * **Course:** Manufacturing Technologies
-* **Project Reference:** Process Digital Twin Prototype — Operational Synchronization at ArcelorMittal Gijón[cite: 1]
+* **Project Reference:** Process Digital Twin Prototype — Operational Synchronization at ArcelorMittal Gijón
 * **Academic Year:** 2026/2027
 
