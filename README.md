@@ -109,6 +109,36 @@ Follow these steps to clone the repository, set up the computational environment
    git clone https://github.com/miguelfernandez-tech/Steel-Process-Digital-Twin.git
    cd Steel-Process-Digital-Twin
    ```
+2. **Create and activate a virtual environment (recommended):**
+* On macOS/Linux:
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+* On Windows:
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+3. **Install required dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+### 7.3 Running the Model
+
+Execute the main orchestration script from the project root:
+
+   ```bash
+   python run_simulation.py
+```
+
+### 7.4 Expected Output Files
+Upon execution, the script automatically populates the **results/** workspace:
+* **results/figures/results_comparison.png:** High-resolution comparative time-series plot comparing Baseline vs. Prescriptive Twin WIP trajectories.
+* **results/logs/scenario_base.csv:** Event-by-event discrete state log for the reactive baseline run.
+* **results/logs/scenario_prescriptive.csv:** Event-by-event discrete state log under proactive pacing control.
+
+
 ## 8. Author & Academic Context
 
 * **Author:** Miguel Fernández Guerra
