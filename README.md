@@ -106,7 +106,7 @@ Follow these steps to clone the repository, set up the computational environment
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<tu-usuario>/Steel-Process-Digital-Twin.git
+   git clone https://github.com/miguelfernandez-tech/Steel-Process-Digital-Twin.git
    cd Steel-Process-Digital-Twin
    ```
 ## 8. Author & Academic Context
