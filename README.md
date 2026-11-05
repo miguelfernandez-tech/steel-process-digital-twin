@@ -106,8 +106,8 @@ Follow these steps to clone the repository, set up the computational environment
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)miguelfernandez-tech/arcelormittal-digital-twin-simpy.git
-   cd arcelormittal-digital-twin-simpy
+   git clone https://github.com/<tu-usuario>/Steel-Process-Digital-Twin.git
+   cd Steel-Process-Digital-Twin
    ```
 ## 8. Author & Academic Context
 
