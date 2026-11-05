@@ -111,7 +111,7 @@ Follow these steps to clone the repository, set up the computational environment
    ```
 ## 8. Author & Academic Context
 
-* **Author:** [Miguel Fernández Guerra]
+* **Author:** Miguel Fernández Guerra
 * **Degree:** Industrial Management Engineering 
 * **Host Institution:** University of Ruse (Erasmus+ Exchange)[cite: 1]
 * **Home Institution:** University of Oviedo (Gijón Campus)[cite: 1]
